@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/abbyex/rose-interactive.git/static/css/main.073c9b0a.css",
-    "main.js": "/abbyex/rose-interactive.git/static/js/main.a221d78d.js",
-    "static/js/787.036ce92f.chunk.js": "/abbyex/rose-interactive.git/static/js/787.036ce92f.chunk.js",
-    "static/media/logo.svg": "/abbyex/rose-interactive.git/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/abbyex/rose-interactive.git/index.html",
-    "main.073c9b0a.css.map": "/abbyex/rose-interactive.git/static/css/main.073c9b0a.css.map",
-    "main.a221d78d.js.map": "/abbyex/rose-interactive.git/static/js/main.a221d78d.js.map",
-    "787.036ce92f.chunk.js.map": "/abbyex/rose-interactive.git/static/js/787.036ce92f.chunk.js.map"
+    "main.css": "/rose-interactive/static/css/main.073c9b0a.css",
+    "main.js": "/rose-interactive/static/js/main.2ea4c449.js",
+    "static/js/787.036ce92f.chunk.js": "/rose-interactive/static/js/787.036ce92f.chunk.js",
+    "static/media/logo.svg": "/rose-interactive/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/rose-interactive/index.html",
+    "main.073c9b0a.css.map": "/rose-interactive/static/css/main.073c9b0a.css.map",
+    "main.2ea4c449.js.map": "/rose-interactive/static/js/main.2ea4c449.js.map",
+    "787.036ce92f.chunk.js.map": "/rose-interactive/static/js/787.036ce92f.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.a221d78d.js"
+    "static/js/main.2ea4c449.js"
   ]
 }
