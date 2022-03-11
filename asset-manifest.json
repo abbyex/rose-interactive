@@ -1,16 +1,14 @@
 {
   "files": {
-    "main.css": "/rose-interactive/static/css/main.073c9b0a.css",
-    "main.js": "/rose-interactive/static/js/main.2ea4c449.js",
-    "static/js/787.036ce92f.chunk.js": "/rose-interactive/static/js/787.036ce92f.chunk.js",
-    "static/media/logo.svg": "/rose-interactive/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "main.css": "/rose-interactive/static/css/main.9d088a63.css",
+    "main.js": "/rose-interactive/static/js/main.71ac6262.js",
+    "static/media/sky.jpg": "/rose-interactive/static/media/sky.7e2d818cef8cbdc85980.jpg",
     "index.html": "/rose-interactive/index.html",
-    "main.073c9b0a.css.map": "/rose-interactive/static/css/main.073c9b0a.css.map",
-    "main.2ea4c449.js.map": "/rose-interactive/static/js/main.2ea4c449.js.map",
-    "787.036ce92f.chunk.js.map": "/rose-interactive/static/js/787.036ce92f.chunk.js.map"
+    "main.9d088a63.css.map": "/rose-interactive/static/css/main.9d088a63.css.map",
+    "main.71ac6262.js.map": "/rose-interactive/static/js/main.71ac6262.js.map"
   },
   "entrypoints": [
-    "static/css/main.073c9b0a.css",
-    "static/js/main.2ea4c449.js"
+    "static/css/main.9d088a63.css",
+    "static/js/main.71ac6262.js"
   ]
 }
