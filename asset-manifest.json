@@ -1,14 +1,19 @@
 {
   "files": {
-    "main.css": "/rose-interactive/static/css/main.9d088a63.css",
-    "main.js": "/rose-interactive/static/js/main.71ac6262.js",
+    "main.css": "/rose-interactive/static/css/main.92be9b70.css",
+    "main.js": "/rose-interactive/static/js/main.87468117.js",
+    "static/media/mountains.jpg": "/rose-interactive/static/media/mountains.25478e5384c299106753.jpg",
+    "static/media/computers.jpg": "/rose-interactive/static/media/computers.85b90ae57955fbc6f30a.jpg",
     "static/media/sky.jpg": "/rose-interactive/static/media/sky.7e2d818cef8cbdc85980.jpg",
+    "static/media/monster.JPG": "/rose-interactive/static/media/monster.ccbc18e168f99f37e2fa.JPG",
+    "static/media/crystal.JPG": "/rose-interactive/static/media/crystal.7fb07a2d853929ee8b8f.JPG",
+    "static/media/lemon.JPG": "/rose-interactive/static/media/lemon.5758801ccaecb0e1fa8a.JPG",
     "index.html": "/rose-interactive/index.html",
-    "main.9d088a63.css.map": "/rose-interactive/static/css/main.9d088a63.css.map",
-    "main.71ac6262.js.map": "/rose-interactive/static/js/main.71ac6262.js.map"
+    "main.92be9b70.css.map": "/rose-interactive/static/css/main.92be9b70.css.map",
+    "main.87468117.js.map": "/rose-interactive/static/js/main.87468117.js.map"
   },
   "entrypoints": [
-    "static/css/main.9d088a63.css",
-    "static/js/main.71ac6262.js"
+    "static/css/main.92be9b70.css",
+    "static/js/main.87468117.js"
   ]
 }
