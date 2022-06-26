@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/rose-interactive/static/css/main.92be9b70.css",
-    "main.js": "/rose-interactive/static/js/main.87468117.js",
+    "main.js": "/rose-interactive/static/js/main.b49cb2e7.js",
     "static/media/mountains.jpg": "/rose-interactive/static/media/mountains.25478e5384c299106753.jpg",
     "static/media/computers.jpg": "/rose-interactive/static/media/computers.85b90ae57955fbc6f30a.jpg",
     "static/media/sky.jpg": "/rose-interactive/static/media/sky.7e2d818cef8cbdc85980.jpg",
@@ -10,10 +10,10 @@
     "static/media/lemon.JPG": "/rose-interactive/static/media/lemon.5758801ccaecb0e1fa8a.JPG",
     "index.html": "/rose-interactive/index.html",
     "main.92be9b70.css.map": "/rose-interactive/static/css/main.92be9b70.css.map",
-    "main.87468117.js.map": "/rose-interactive/static/js/main.87468117.js.map"
+    "main.b49cb2e7.js.map": "/rose-interactive/static/js/main.b49cb2e7.js.map"
   },
   "entrypoints": [
     "static/css/main.92be9b70.css",
-    "static/js/main.87468117.js"
+    "static/js/main.b49cb2e7.js"
   ]
 }
